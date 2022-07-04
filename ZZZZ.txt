@@ -1,0 +1,95 @@
+Primitive 
+	boolean, char , short , int , long , double , byte , float 
+no primitive 
+	class, interface , Arrays  , String 
+
+
+
+				Data Type 
+
+		Primitive 					NOn Primitive 
+								, String , Array ,  class 
+	numerical 		non numerical 
+
+	 byte 		boolen 
+	short 		char 
+	int 
+	long 
+	float 
+	doube 
+boolean 		: 1 bit / true ot False 
+char		: 2 byte , 2 *8 =16 bits 
+byte		: 1 byte = 8 bits  
+short 		: 2 bytes 
+int 		: 4 bytes 
+long 		: 8 bytes
+float 		: 4 bytes 
+double 		: 8 bytes 
+
+				 2pow 8 is 256.
+					256 / 2 
+					- 128 to + 127  
+					byte a=100;	
+				4 * 8 =32 
+				2 pow 3
+				4,294,967,296/ 2
+				2147483647
+
+Operators  ? 
+	Unary Operator : 
+		a=10;
+		a++;
+		++a;
+		a--;
+		--a;
+	Binary Operator 
+		a=10;b=20;
+		a<b 
+		a> b;
+		a> = b ;
+		a!=b;
+		a==10 && b==20 
+		a==10 || b==20 
+		RElatrion l operation // conditionals 
+			<= , > = , == , != 
+		Logical Opeatroes 
+			&& , || , ! 
+		Assignment operators
+			=  
+		Arithmetic Operators :
+			 + , - , * , / 		
+
+	Trenary Operator 
+		a=2
+		b=5;
+		(a<=5)? a : b ;
+
+
+
+	KeyWOrds: 
+		Abstract 
+		boolean 
+		break 
+		case
+		char double 
+		enum 
+		etendss 
+		try 
+		catch 
+		finally 
+		if ,
+		 else
+		 new 
+Statemens : 
+	if , 	
+	if else / nested if 
+	if else ladder 
+	switch 
+
+looping 
+	for  while , do while 
+JUmping : 
+	break , continue 
+
+
+

@@ -1,0 +1,19 @@
+class A 
+{
+	int a=100;	
+	int b=200;
+	void m1(){}
+}
+class B  extends A 
+{
+	int b=500;
+	void xyz(){}
+}
+class Demo1
+{
+	public static void main(String args[])
+	{
+		B b =new B();
+		b.m1();
+	}
+}	

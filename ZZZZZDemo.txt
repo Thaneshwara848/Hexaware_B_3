@@ -1,0 +1,347 @@
+700 programmin ?
+
+which is first one : 
+	Binary : 
+	Machin lvel  lang 
+
+
+5500 : 100001010101111
+5555 :10111110101010101
+====================
+10 :1010010101010101
+
+--------------------------------------------------------------
+
+
+ Assemble levle lang 
+
+	Ax 500;
+	Bx 400 ;
+	Load Ax,Bx
+	Add Ax, BX;			Basic  level 
+	if , else , switch 
+	i=union , structure  Threading 
+
+
+		A
+		B 
+		pascl 			Basic levle lang( B language )
+		coble 
+				(Platfrm dependent )			independtn 
+
+		C------------------------->C ++		 -------------------------------------> C#
+						--------------------------------> Java 
+						---------------------------------> Python 
+
+		High Level 	High Level 
+
+		Sopl 		Obj o pl
+		Popl 
+			
+
+
+
+Oopls
+	class & Obj :
+	 Inhertice 
+	plymor
+	Abstr
+	Enc
+
+
+
+
+
+						 -------------------------------------> C#  (paid )
+						--------------------------------> Java (Free )
+						---------------------------------> Python (Free)
+
+
+
+
+
+
+			
+
+
+	java 						Python 
+
+
+		compile 						no compiler 
+
+	.byte 
+
+		interprter 						Intrepreter 
+
+	Machin code 					Mach Code 
+
+
+
+
+
+
+
+
+
+
+			
+
+	Java 				Python : 
+	slow : 				Fast  
+	High Secutity 			less 
+	Littl slow 				performance 
+							
+
+Phone pay :
+
+
+	987654345678
+		1000 : 
+				5 sec
+				10 : java  			
+
+
+
+
+
+Robotice : 
+	machin lerning : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Java  ? or Featurs of Java 
+
+	Platefrom Independet 
+	Security :
+	Intrepetd : any OS 
+	OOPL 
+	Simple 
+	Portable 
+	Hogh Performance 
+	MultThreading 
+	
+	JDK : java Developmemt kIT :
+	jre :jAVA rUNTIME eNV 
+	JVM : Java Virtual Machn 
+	
+
+
+JDK 
+JRE
+jvm 
+	LOAD THE .CLASS FIles 
+	Verfiys the byteocde 
+	Executes 
+
+
+
+
+
+
+
+
+
+
+
+Day1: 
+	Why java ? 
+	Featurs : simple , OOpl , pI , Security , high Perforamnce ,  MT  ,   Platoform Indepedent 
+	Key words 
+	variable 
+	 data type :
+		primitive and no primetive 
+	Operators 
+		unary , bnry , trny  
+	statemts 
+		cond 			, looping ,			 jump 
+		if, else, laddr, swtch 		fr , whl , do wil 		break , contiunt , return 
+	 class 
+	Object 
+	Read ,
+		import java,util.Scanner;
+		Scanner sc =new Scanner(System.in) 
+	write 
+		System,out.println("");
+	JVM , JDK , JRE :
+			1) find the max and min of 3 number 
+			2) Factorial 
+			3) Avarage marks 
+			4) PTR
+				intrest 
+			5) Leap / not 
+			6) prime number 
+			7) area of rectangle . squar. 
+			8) pow 
+
+	
+
+
+
+Full stack ? 
+	
+	FE + BE= Full stack
+
+
+
+Front End						MEAN 				MERN 
+	
+
+	HTML 
+	CSS
+	JS 					Angualr . Js			React.js 
+
+MidleWare : 
+	Java  
+		servelt jsp / with JDBC 		Exprees.js				Exprees.js
+			Server : tomcat  			Node.js				Node.js
+		Spring and Hibernate 
+		Spring Boot , JPA 
+		
+	Python 
+		Django / Flask 
+	.net 
+		ADO , ASP 
+
+
+Backend 	DataBase ? 				MangoDB					MangoDB
+	Mysql 
+	oracle 
+
+
+
+
+
+class , Object 
+Oops :
+	Inherticance : 
+		acuring the property from parent to child 
+			parent ------- child 
+			super-------- sub 
+			base --------- derived 
+
+		 	type inheritcance 
+				sinlge 
+				multi level 
+				hirical 
+				hybrid 
+				multiple 
+
+
+	Polymorphism 
+		one name many from 
+		one methd name may anctions 
+		
+		compile time 
+			it will bind the data at compile time 
+				over loding 
+					constructor over loding 
+					method over loading 
+				
+
+				methid / const name + multiple time + diff diff paramnetr + in same class= c/ m over loding 
+		run time 
+			it wil bind the dat a at run  time 
+				ex: over riding 
+					method 	 : every thig must be sam eincludeing signatue  but in sub class 			
+					constructore : no possilbel 
+
+
+		Encupulation : 
+			binding the dat menberns in to single unit 
+			warpping up of data into sing le unit 
+			hinding the data into single unit 
+			 
+
+		how ? 
+			make all the data meneber as private 
+		how to acces ? 
+			setter and getters 
+
+		Encupulated class / bean class / pojo class
+				private varible and seeter and getter methods 
+
+		Abstraction :
+			hiding the implementations 
+
+
+
+
+
+		abstract   calss Bank
+			abstract   void loan()
+			withdraw()
+			{
+	
+			}
+			depostit
+			online tranfe() 
+
+
+
+
+
+
+
+
+		 
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
